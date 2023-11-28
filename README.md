@@ -1,3 +1,6 @@
-# Faich.github.io
+# Hello I'm FaIch, welcome to my Github Pages :)
 
-This is a github pages repository to host the privacy policy of the application 'Droplet'
+My pages will be containing some of my web projects.
+
+Here is a list of links to my current projects that are available:
+
